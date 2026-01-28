@@ -3,92 +3,12 @@
   "WorkspaceRootPath": "D:\\prachi\\workspace\\Auth_WebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|d:\\prachi\\workspace\\auth_webapi\\auth_webapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|solutionrelative:auth_webapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|d:\\prachi\\workspace\\auth_webapi\\auth_webapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|solutionrelative:auth_webapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|d:\\prachi\\workspace\\auth_webapi\\auth_webapi\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|solutionrelative:auth_webapi\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|d:\\prachi\\workspace\\auth_webapi\\auth_webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|solutionrelative:auth_webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|d:\\prachi\\workspace\\auth_webapi\\auth_webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|solutionrelative:auth_webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|d:\\prachi\\workspace\\auth_webapi\\auth_webapi\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|solutionrelative:auth_webapi\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|d:\\prachi\\workspace\\auth_webapi\\auth_webapi\\models\\dtos\\questionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|solutionrelative:auth_webapi\\models\\dtos\\questionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|d:\\prachi\\workspace\\auth_webapi\\auth_webapi\\controllers\\mocktestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|solutionrelative:auth_webapi\\controllers\\mocktestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|d:\\prachi\\workspace\\auth_webapi\\auth_webapi\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|solutionrelative:auth_webapi\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|d:\\prachi\\workspace\\auth_webapi\\auth_webapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|solutionrelative:auth_webapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|d:\\prachi\\workspace\\auth_webapi\\auth_webapi\\models\\dtos\\answeroptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|solutionrelative:auth_webapi\\models\\dtos\\answeroptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|d:\\prachi\\workspace\\auth_webapi\\auth_webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|solutionrelative:auth_webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|d:\\prachi\\workspace\\auth_webapi\\auth_webapi\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|solutionrelative:auth_webapi\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|d:\\prachi\\workspace\\auth_webapi\\auth_webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|solutionrelative:auth_webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|d:\\prachi\\workspace\\auth_webapi\\auth_webapi\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|solutionrelative:auth_webapi\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|d:\\prachi\\workspace\\auth_webapi\\auth_webapi\\models\\mocktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|solutionrelative:auth_webapi\\models\\mocktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|d:\\prachi\\workspace\\auth_webapi\\auth_webapi\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|solutionrelative:auth_webapi\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|d:\\prachi\\workspace\\auth_webapi\\auth_webapi\\models\\dtos\\createmocktestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|solutionrelative:auth_webapi\\models\\dtos\\createmocktestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|d:\\prachi\\workspace\\auth_webapi\\auth_webapi\\models\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|solutionrelative:auth_webapi\\models\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|d:\\prachi\\workspace\\auth_webapi\\auth_webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|solutionrelative:auth_webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|d:\\prachi\\workspace\\auth_webapi\\auth_webapi\\helpers\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|solutionrelative:auth_webapi\\helpers\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|d:\\prachi\\workspace\\auth_webapi\\auth_webapi\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|solutionrelative:auth_webapi\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|d:\\prachi\\workspace\\auth_webapi\\auth_webapi\\auth_webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|solutionrelative:auth_webapi\\auth_webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|d:\\prachi\\workspace\\auth_webapi\\auth_webapi\\services\\resultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD144D7-E7B1-40AC-8A3F-D9FE137A407C}|Auth_WebAPI\\Auth_WebAPI.csproj|solutionrelative:auth_webapi\\services\\resultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,275 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Auth_WebAPI\\appsettings.Development.json",
-              "ToolTip": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\appsettings.Development.json",
-              "RelativeToolTip": "Auth_WebAPI\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-11T14:12:44.88Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "Auth_WebAPI\\appsettings.json",
-              "ToolTip": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\appsettings.json",
-              "RelativeToolTip": "Auth_WebAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-11T14:12:43.731Z",
+              "DocumentIndex": 1,
+              "Title": "ResultService.cs",
+              "DocumentMoniker": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Services\\ResultService.cs",
+              "RelativeDocumentMoniker": "Auth_WebAPI\\Services\\ResultService.cs",
+              "ToolTip": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Services\\ResultService.cs",
+              "RelativeToolTip": "Auth_WebAPI\\Services\\ResultService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T15:54:06.702Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\.gitignore",
-              "RelativeDocumentMoniker": "Auth_WebAPI\\.gitignore",
-              "ToolTip": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\.gitignore",
-              "RelativeToolTip": "Auth_WebAPI\\.gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-11T14:09:48.635Z",
+              "Title": "TestController.cs",
+              "DocumentMoniker": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "Auth_WebAPI\\Controllers\\TestController.cs",
+              "ToolTip": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Controllers\\TestController.cs",
+              "RelativeToolTip": "Auth_WebAPI\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAswDgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T15:48:13.345Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "QuestionResponseDto.cs",
-              "DocumentMoniker": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Models\\DTOs\\QuestionResponseDto.cs",
-              "RelativeDocumentMoniker": "Auth_WebAPI\\Models\\DTOs\\QuestionResponseDto.cs",
-              "ToolTip": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Models\\DTOs\\QuestionResponseDto.cs",
-              "RelativeToolTip": "Auth_WebAPI\\Models\\DTOs\\QuestionResponseDto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-10T06:57:59.911Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MockTestController.cs",
-              "DocumentMoniker": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Controllers\\MockTestController.cs",
-              "RelativeDocumentMoniker": "Auth_WebAPI\\Controllers\\MockTestController.cs",
-              "ToolTip": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Controllers\\MockTestController.cs",
-              "RelativeToolTip": "Auth_WebAPI\\Controllers\\MockTestController.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAADwvzYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T13:05:09.108Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Subject.cs",
-              "DocumentMoniker": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Models\\Subject.cs",
-              "RelativeDocumentMoniker": "Auth_WebAPI\\Models\\Subject.cs",
-              "ToolTip": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Models\\Subject.cs",
-              "RelativeToolTip": "Auth_WebAPI\\Models\\Subject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T11:41:21.202Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SubjectController.cs",
-              "DocumentMoniker": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Controllers\\SubjectController.cs",
-              "RelativeDocumentMoniker": "Auth_WebAPI\\Controllers\\SubjectController.cs",
-              "ToolTip": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Controllers\\SubjectController.cs",
-              "RelativeToolTip": "Auth_WebAPI\\Controllers\\SubjectController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAwwBMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T11:57:57.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AnswerOptionDto.cs",
-              "DocumentMoniker": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Models\\DTOs\\AnswerOptionDto.cs",
-              "RelativeDocumentMoniker": "Auth_WebAPI\\Models\\DTOs\\AnswerOptionDto.cs",
-              "ToolTip": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Models\\DTOs\\AnswerOptionDto.cs",
-              "RelativeToolTip": "Auth_WebAPI\\Models\\DTOs\\AnswerOptionDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-10T06:58:32.517Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Users.cs",
-              "DocumentMoniker": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Models\\Users.cs",
-              "RelativeDocumentMoniker": "Auth_WebAPI\\Models\\Users.cs",
-              "ToolTip": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Models\\Users.cs",
-              "RelativeToolTip": "Auth_WebAPI\\Models\\Users.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T15:51:54.59Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "QuestionsController.cs",
-              "DocumentMoniker": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Controllers\\QuestionsController.cs",
-              "RelativeDocumentMoniker": "Auth_WebAPI\\Controllers\\QuestionsController.cs",
-              "ToolTip": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Controllers\\QuestionsController.cs",
-              "RelativeToolTip": "Auth_WebAPI\\Controllers\\QuestionsController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAqwB0AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T11:11:03.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Auth_WebAPI\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Auth_WebAPI\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAgwA4AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T11:40:47.633Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Question.cs",
-              "DocumentMoniker": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Models\\Question.cs",
-              "RelativeDocumentMoniker": "Auth_WebAPI\\Models\\Question.cs",
-              "ToolTip": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Models\\Question.cs",
-              "RelativeToolTip": "Auth_WebAPI\\Models\\Question.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T11:20:36.418Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "JwtHelper.cs",
-              "DocumentMoniker": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Helpers\\JwtHelper.cs",
-              "RelativeDocumentMoniker": "Auth_WebAPI\\Helpers\\JwtHelper.cs",
-              "ToolTip": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Helpers\\JwtHelper.cs",
-              "RelativeToolTip": "Auth_WebAPI\\Helpers\\JwtHelper.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAcwAoAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T19:48:32.988Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MockTest.cs",
-              "DocumentMoniker": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Models\\MockTest.cs",
-              "RelativeDocumentMoniker": "Auth_WebAPI\\Models\\MockTest.cs",
-              "ToolTip": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Models\\MockTest.cs",
-              "RelativeToolTip": "Auth_WebAPI\\Models\\MockTest.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T11:56:48.158Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Auth_WebAPI\\Controllers\\AuthController.cs",
-              "ToolTip": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Auth_WebAPI\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAHMAAAAAAAAAAAAkwIAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T20:09:05.106Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Auth_WebAPI\\Program.cs",
-              "ToolTip": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Program.cs",
-              "RelativeToolTip": "Auth_WebAPI\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwGwAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T22:13:28.647Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CreateMockTestDto.cs",
-              "DocumentMoniker": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Models\\DTOs\\CreateMockTestDto.cs",
-              "RelativeDocumentMoniker": "Auth_WebAPI\\Models\\DTOs\\CreateMockTestDto.cs",
-              "ToolTip": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Models\\DTOs\\CreateMockTestDto.cs",
-              "RelativeToolTip": "Auth_WebAPI\\Models\\DTOs\\CreateMockTestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T13:04:00.822Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Level.cs",
-              "DocumentMoniker": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Models\\Level.cs",
-              "RelativeDocumentMoniker": "Auth_WebAPI\\Models\\Level.cs",
-              "ToolTip": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Models\\Level.cs",
-              "RelativeToolTip": "Auth_WebAPI\\Models\\Level.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T11:42:23.318Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Register.cs",
-              "DocumentMoniker": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Models\\Register.cs",
-              "RelativeDocumentMoniker": "Auth_WebAPI\\Models\\Register.cs",
-              "ToolTip": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Models\\Register.cs",
-              "RelativeToolTip": "Auth_WebAPI\\Models\\Register.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T00:27:50.861Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Auth_WebAPI",
-              "DocumentMoniker": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Auth_WebAPI.csproj",
-              "RelativeDocumentMoniker": "Auth_WebAPI\\Auth_WebAPI.csproj",
-              "ToolTip": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Auth_WebAPI.csproj",
-              "RelativeToolTip": "Auth_WebAPI\\Auth_WebAPI.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-19T20:58:10.262Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "PasswordHasher.cs",
-              "DocumentMoniker": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Helpers\\PasswordHasher.cs",
-              "RelativeDocumentMoniker": "Auth_WebAPI\\Helpers\\PasswordHasher.cs",
-              "ToolTip": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Helpers\\PasswordHasher.cs",
-              "RelativeToolTip": "Auth_WebAPI\\Helpers\\PasswordHasher.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T20:39:55.477Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Auth_WebAPI\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\prachi\\workspace\\Auth_WebAPI\\Auth_WebAPI\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Auth_WebAPI\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAowAoAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T15:01:13.331Z"
             }
           ]
         }

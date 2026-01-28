@@ -15,5 +15,7 @@ namespace Auth_WebAPI.Models
         public int TotalMarks { get; set; }
         public int DurationInMinutes { get; set; }
         public bool IsActive { get; set; }
+        public ICollection<TestAttempt> TestAttempts { get; set; }
+
     }
 }

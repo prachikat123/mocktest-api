@@ -7,7 +7,7 @@ using Microsoft.Data.SqlClient;
 namespace Auth_WebAPI.Controllers
 {
     [Route("api/subject")]
-    [Authorize(Roles = "Admin")]
+    [Authorize]
     [ApiController]
     public class SubjectController : ControllerBase
     {
@@ -36,7 +36,6 @@ namespace Auth_WebAPI.Controllers
             return Ok("Subject Added Successfully");
         }
 
-        [AllowAnonymous]
         [HttpGet("all")]
         public IActionResult GetSubjects()
         {

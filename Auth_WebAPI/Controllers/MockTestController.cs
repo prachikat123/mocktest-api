@@ -11,6 +11,7 @@ using System.Security.Claims;
 namespace Auth_WebAPI.Controllers
 {
     [Route("api/mocktest")]
+    [Authorize]
     [ApiController]
     public class MockTestController : ControllerBase
     {
@@ -56,7 +57,7 @@ namespace Auth_WebAPI.Controllers
             return Ok("Mock Test Created Successfully");
         }
 
-        [Authorize]
+        
         [HttpGet("active")]
         public IActionResult GetActiveTests()
         {
@@ -77,13 +78,14 @@ namespace Auth_WebAPI.Controllers
                     DurationInMinutes = t.DurationInMinutes
                 })
                 .ToList();
+                 
 
             return Ok(tests);
         }
 
-        [Authorize]
+        
         [HttpGet("start/{testId}")]
-        public IActionResult StartTest([FromRoute] string testId)
+        public IActionResult StartTest([FromRoute] int testId)
         {
             var userIdClaim = User.FindFirst(ClaimTypes.PrimarySid);
             if (userIdClaim == null)
@@ -95,19 +97,28 @@ namespace Auth_WebAPI.Controllers
             using SqlConnection con =
             new SqlConnection(_config.GetConnectionString("cs"));
 
-            string sql = @"INSERT INTO TestAttempts
-                   (UserId, TestId, StartTime, Status)
+            string sql = @"INSERT INTO TestAttempts (UserId, TestId, StartTime, Status)
+                            OUTPUT INSERTED.AttemptId
                    VALUES (@u, @t, GETDATE(), 'Started')";
 
-            SqlCommand cmd = new SqlCommand(sql, con);
+            using SqlCommand cmd = new SqlCommand(sql, con);
             cmd.Parameters.AddWithValue("@u", userId);
             cmd.Parameters.AddWithValue("@t", testId);
+            try
+            {
+                con.Open();
+                int newAttemptId = (int)cmd.ExecuteScalar();  // returns the inserted AttemptId
+                con.Close();
 
-            con.Open();
-            cmd.ExecuteNonQuery();
-            con.Close();
+                return Ok(new { attemptId = newAttemptId, message = "Test Started" });
+            }
+            catch(Exception ex)
+            {
+                return StatusCode(500, new { error = "Failed to start test", details = ex.Message });
 
-            return Ok(new { message = "Test Started" });
+            }
+
+
 
         }
 

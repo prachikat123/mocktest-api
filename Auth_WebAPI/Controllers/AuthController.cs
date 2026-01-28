@@ -24,10 +24,10 @@ namespace Auth_WebAPI.Models.controller
 
 
         public AuthController(JwtHelper jwtHelper, IConfiguration config)
-    {
-            _jwtHelper = jwtHelper;
-            _config = config;
-    }
+            {
+                _jwtHelper = jwtHelper;
+                 _config = config;
+            }
 
     [AllowAnonymous]
     [HttpPost("login")]
@@ -70,11 +70,7 @@ namespace Auth_WebAPI.Models.controller
                 log.Password
             );
 
-            //if (result == PasswordVerificationResult.Success)
-            //{
-            //    return Ok("Login successful");
-            //}
-            //return Unauthorized("Invalid email or password");
+            
 
             if (result == PasswordVerificationResult.Failed)
                 return Unauthorized("Invalid password");
